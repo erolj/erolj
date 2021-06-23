@@ -17,6 +17,10 @@
 ## Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Membuat website statik tanpa hosting dengan Hugo dan Github](https://dev.to/erolj/membuat-website-statik-tanpa-hosting-dengan-hugo-dan-github-2hg1)
+- [Cara instalasi HUGO dan perintah dasar penggunaan](https://dev.to/erolj/cara-instalasi-hugo-dan-perintah-dasar-penggunaan-5gap)
+- [Cara install Searx metasearch engine di Ubuntu 18.04](https://dev.to/kawanuaid/cara-install-searx-metasearch-engine-di-ubuntu-18-04-13fi)
+- [Cara instalasi Matomo Web Analytics di Ubuntu 18.04](https://dev.to/kawanuaid/cara-instalasi-matomo-web-analytics-di-ubuntu-18-04-202l)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
