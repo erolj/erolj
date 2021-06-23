@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hi there 👋
+
+<p align="left"> <a href="https://twitter.com/eroljoudy" target="blank"><img src="https://img.shields.io/twitter/follow/eroljoudy?logo=twitter&style=for-the-badge" alt="eroljoudy" /></a> </p>
+
+---
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erolj&show_icons=true&locale=en" alt="erolj" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erolj&" alt="erolj" /></p>
 
 <!--
 **erolj/erolj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +22,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=erolj&label=Profile%20views&color=0e75b6&style=flat" alt="erolj" /> </p>
