@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<p align="left"> <a href="https://twitter.com/eroljoudy" target="blank"><img src="https://img.shields.io/twitter/follow/eroljoudy?logo=twitter&style=for-the-badge" alt="eroljoudy" /></a> </p>
+<p align="left"> <a href="https://twitter.com/eroltoo" target="blank"><img src="https://img.shields.io/twitter/follow/eroltoo?logo=twitter&style=for-the-badge" alt="eroltoo" /></a> </p>
 
 ---
 
